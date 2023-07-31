@@ -110,7 +110,8 @@ body {
 #author{
   font-family: 'Edu SA Beginner', cursive;
   margin-left: auto;
-  margin-top: 2em;
+  margin-top: 0.8em;
   font-size: 1.2rem;
+  color: rgb(25, 25, 25);
   /* border: 2px solid yellow; */
 }
